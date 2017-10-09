@@ -1,4 +1,5 @@
 <?php
+//Pruebas de mejoras para este SDK - Prestashop
 /**
  * File: SafetyPayProxy.php
  * Author: SafetyPay Inc.
